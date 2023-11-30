@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import {PrototypeForm} from "./routes/PrototypeForm";
 import {HomePage} from  "./routes/HomePage"
 import {MapEditor} from "./routes/MapEditor";

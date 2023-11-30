@@ -3,9 +3,6 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { Button, Tab, Tabs } from "react-bootstrap";
-import Card from "react-bootstrap/Card";
-import Form from "react-bootstrap/Form";
 
 
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
